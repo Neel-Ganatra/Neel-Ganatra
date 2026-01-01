@@ -39,7 +39,7 @@
 </td>
 <td width="35%" align="right">
 
-<img src="https://giphy.com/explore/programmer" width="260"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXF4c28zaXZjMzN4bTJ2amN4MGVmZWEyeTJyOW5ha2kwZmc3MGxmOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="260"/>
 
 </td>
 </tr>
