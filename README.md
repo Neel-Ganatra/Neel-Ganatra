@@ -66,40 +66,12 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mysql,prisma,docker,git,github,linux,python,html,css&perline=8" />
+  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mysql,prisma,postgress,docker,git,github,linux,salesforce,python,html,css&perline=8" />
 </p>
 
 ---
 
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=neelganatra&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400"
-    width="48%"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=neelganatra&theme=dark&hide_border=true"
-    width="48%"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelganatra&layout=compact&theme=dark&hide_border=true"
-  />
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=neelganatra&theme=darkhub&no-frame=true&margin-w=10"
-  />
-</p>
 
 
 ---
