@@ -17,17 +17,35 @@
 
 ---
 
-
 ## 👨‍💻 About Me
 
-| | |
-|---|---|
-| 🚀 Full-Stack Software Engineer  <br><br>
-💡 Putting ideas into real-world products using modern web technologies  <br><br>
-💻 Passionate about backend development, APIs, and databases  <br><br>
-🏗️ Focused on building practical, production-ready applications  <br><br>
-📫 Reach me at **neelganatra25@gmail.com**  <br><br>
-⚡ Fun fact: *Good code solves problems, great code builds products.* | <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="260" /> |
+<div align="left">
+<table>
+<tr>
+<td width="65%" valign="top">
+
+🚀 **Full-Stack Software Engineer**  
+
+💡 Putting ideas into real-world products using modern web technologies  
+
+💻 Passionate about backend development, APIs, and databases  
+
+🏗️ Focused on building practical, production-ready applications  
+
+📫 Reach me at **neelganatra25@gmail.com**  
+
+⚡ *Good code solves problems, great code builds products.*
+
+</td>
+<td width="35%" align="right">
+
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="260"/>
+
+</td>
+</tr>
+</table>
+</div>
+|
 
 
 ## 🌐 Connect With Me
