@@ -31,7 +31,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/neelganatra" target="_blank">
+  <a href="https://github.com/Neel-Ganatra" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
   <a href="https://linkedin.com/in/neel-ganatra" target="_blank">
@@ -52,13 +52,12 @@
 
 ---
 
-## 🧑‍💻 Coding in Progress
+## 👨‍💻 Currently Working On
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="420"/>
-</p>
+| | |
+|---|---|
+| 🔹 Building real-world web applications  <br> 🔹 Improving backend APIs  <br> 🔹 Exploring modern JavaScript frameworks  <br> 🔹 Writing clean & maintainable code | <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300"/> |
 
----
 
 ## 📊 GitHub Stats
 
@@ -71,13 +70,19 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelganatra&layout=compact&theme=radical" />
 </p>
 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelganatra&layout=compact&theme=radical" />
+</p>
+
 ---
 
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=neelganatra&theme=radical&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=neelganatra&theme=radical&margin-w=10&no-frame=true"/>
 </p>
+
 
 ---
 
