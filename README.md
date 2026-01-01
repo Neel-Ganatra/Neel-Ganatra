@@ -39,13 +39,12 @@
 </td>
 <td width="35%" align="right">
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="260"/>
+<img src="https://giphy.com/explore/programmer" width="260"/>
 
 </td>
 </tr>
 </table>
 </div>
-|
 
 
 ## 🌐 Connect With Me
