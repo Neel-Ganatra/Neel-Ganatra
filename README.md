@@ -65,7 +65,7 @@
 
 ## 🛠️ Tech Stack
 
-<p align="center">
+<p >
   <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mysql,prisma,postgress,docker,git,github,linux,salesforce,python,html,css&perline=8" />
 </p>
 
